@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("สวัสดีครับ/ค่ะ! ผม/หนู [ธีรภัทร หุ่นธานี]\n");
+    printf("สวัสดีครับ! ผม [ธีรภัทร หุ่นธานี]\n");
     printf("รหัสนักศึกษา: 692110147\n");
     printf("วิชา: DG111 Computer Programming");
     return 0;
